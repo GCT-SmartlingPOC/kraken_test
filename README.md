@@ -1,2 +1,2 @@
 # kraken_test
-kraken repositori used for POC testing
+kraken repository used for POC testing
