@@ -1,4 +1,6 @@
-"activity.details.contactSeller.noEmail.errorOk" = "OK";
+/* Comment for OK button */
+"activity.details.contactSeller.noEmail.errorOk" = "OK 1";
+<!-- smartling.character_limit = 60 -->
 "activity.details.contactSeller.noEmail.errorTitle" = "Es sieht so aus, als ob E-Mail noch nicht auf Ihrem Handy eingerichtet ist.";
 "activity.details.counterPartyHistory.text" = "Weitere Transaktionen sehen";
 "activity.details.funding.from.text" = "Rücktritt vom";
