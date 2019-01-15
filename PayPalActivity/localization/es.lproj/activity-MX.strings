@@ -1,0 +1,8 @@
+"activity.details.contactSeller.noEmail.errorTitle" = "Parece que el correo electrónico no está configurado en tu móvil todavía.";
+"activity.details.counterPartySendMoney.text" = "Enviar pagos";
+"activity.details.funding.from.text" = "Fuente";
+"activity.details.funding.to.text" = "Destino";
+"activity.details.invoice.action.visitwebsite" = "Puede gestionar las facturas en nuestro <a href='%1$@'>sitio web</a>.";
+"activity.details.moneyRefunded.credit.text" = "Te reembolsaron %1$@ por %2$@";
+"activity.details.moneyRefunded.debit.text" = "Ha enviado un reembolso de %1$@ a %2$@ ";
+"activity.details.order.credit.text" = "%2$@ recibió un pedido de %1$@";
