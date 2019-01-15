@@ -1,7 +1,7 @@
 /* Comment for OK button */
 "activity.details.contactSeller.noEmail.errorOk" = "OK 1";
 <!-- smartling.character_limit = 60 -->
-"activity.details.contactSeller.noEmail.errorTitle" = "It looks like email isn’t set up on your mobile yet.";
+"activity.details.contactSeller.noEmail.errorTitle" = "It looks like email isn’t set up on your mobile yet one.";
 "activity.details.counterPartyHistory.text" = "See other transactions";
 "activity.details.funding.from.text" = "Withdrawal from";
 "activity.details.invoice.action.visitwebsite" = "You can manage invoices on our <a href='%1$@'>website</a>.";
