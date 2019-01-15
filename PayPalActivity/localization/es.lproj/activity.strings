@@ -1,0 +1,26 @@
+/* 
+  activity.strings
+  consumervenice
+
+  Created by Miluski, Dane on 4/15/15.
+  Copyright (c) 2015 PayPal. All rights reserved.
+*/
+
+// Activity redesign
+"activity.details.section.status.counterParty.sender.header" = "De";
+"activity.details.section.status.purpose.personal" = "Amigos & familia";
+
+"activity.details.section.shipping.sender.header" = "OK PARA ENVIAR";
+"activity.details.section.shipping.recipient.header" = "INFORMACIÓN DE ENVÍO";
+
+"activity.details.section.purchaseProtection.header" = "PROTECCIÓN DE COMPRA";
+"activity.details.section.purchaseProtection.message" = "Si hay un problema, asegúrese de ponerse en contacto con el vendedor a través de PayPal por %1$@. Usted puede ser elegible para la protección de la compra.";
+
+"activity.details.section.purchaseDetails.multipleItems.title" = "%1$@ (cantidad %2$@)";
+
+"activity.details.invoiceID.text" = "ID. de factura %1$@";
+"activity.details.transactionID.text" = "ID. de transacción %1$@";
+"activity.details.transactionMadeAt.text" = "Transacción realizada en %1$@ ";
+
+"activity.details.debit.fee.text" = "Se le cobrará %1$@ después de un %2$@ Fee.";
+"activity.details.credit.fee.text" = "Usted pagó una cuota de %1$@.";
