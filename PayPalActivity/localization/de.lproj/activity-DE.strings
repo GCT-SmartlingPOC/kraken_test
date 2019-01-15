@@ -1,0 +1,9 @@
+"activity.details.contactSeller.noEmail.errorOk" = "OK";
+"activity.details.contactSeller.noEmail.errorTitle" = "Es sieht so aus, als ob E-Mail noch nicht auf Ihrem Handy eingerichtet ist.";
+"activity.details.counterPartyHistory.text" = "Weitere Transaktionen sehen";
+"activity.details.funding.from.text" = "Rücktritt vom";
+"activity.details.invoice.action.visitwebsite" = "Sie können Rechnungen auf unserer <a href='%1$@'>Website verwalten</a>.";
+"activity.details.moneyRequestCancel.text" = "Die Anfrage für %1$@ wurde abgebrochen";
+"activity.details.moneyRequestRequestee.requestReceived.text" = "%2$@ requested%% %1$@";
+"activity.details.moneyTransfered.debit.text" = "Sie haben%% %1$@ zu %2$@ zurückgezogen";
+"activity.details.order.credit.text" = "%2$@ erhielt einen Auftrag für %1$@";
