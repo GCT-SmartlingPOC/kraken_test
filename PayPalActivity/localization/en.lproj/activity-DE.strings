@@ -1,21 +1,27 @@
 /* Comment for not OK button */
-"activity.details.contactSeller.noEmail.errorNotOk" = "not OK 2";
+"activity.details.contactSeller.noEmail.errorNotOk" = "not OK 3";
 
 /* Comment for OK button */
-"activity.details.contactSeller.noEmail.errorOk" = "OK 2";
+"activity.details.contactSeller.noEmail.errorOk" = "OK 3";
 
 <!-- smartling.character_limit = 60 -->
-"activity.details.contactSeller.noEmail.errorTitle" = "It looks like email isn’t set up on your mobile yet two.";
+"activity.details.contactSeller.noEmail.errorTitle" = "It looks like email isn’t set up on your mobile yet 3.";
 
 /* smartling.character_limit = 30 */
-"activity.details.counterPartyHistory.text" = "See other transactions two";
+"activity.details.counterPartyHistory.text" = "See other transactions 3";
 
 /* This is a comment plus character limit smartling.character_limit = 25 */
-"activity.details.funding.from.text" = "Withdrawal from two";
+"activity.details.funding.from.text" = "Withdrawal from 3";
 
 /* Comment for activity.details.invoice.action.visitwebsite button */
-"activity.details.invoice.action.visitwebsite" = "You can manage invoices on our <a href='%1$@'>website</a>.";
-"activity.details.moneyRequestCancel.text" = "The request for %1$@ has been canceled";
-"activity.details.moneyRequestRequestee.requestReceived.text" = "%2$@ requested %1$@";
-"activity.details.moneyTransfered.debit.text" = "You withdrew %1$@ to %2$@";
-"activity.details.order.credit.text" = "%2$@ received an order for %1$@";
+"activity.details.invoice.action.visitwebsite" = "You can manage invoices on our <a href='%1$@'>website</a> 3.";
+"activity.details.moneyRequestCancel.text" = "The request for %1$@ has been canceled 3;
+
+
+/* Comment for activity.details.moneyRequestRequestee.requestReceived.text */
+/* smartling.character_limit = 31 */
+"activity.details.moneyRequestRequestee.requestReceived.text" = "%2$@ requested %1$@ 3";
+"activity.details.moneyTransfered.debit.text" = "You withdrew %1$@ to %2$@ 3";
+
+/* Comment for activity.details.order.credit.text */ /* smartling.character_limit = 32 */
+"activity.details.order.credit.text" = "%2$@ received an order for %1$@ 3";
