@@ -1,3 +1,6 @@
+/* Comment for not OK button */
+"activity.details.contactSeller.noEmail.errorNotOk" = "not OK 2";
+
 /* Comment for OK button */
 "activity.details.contactSeller.noEmail.errorOk" = "OK 2";
 
