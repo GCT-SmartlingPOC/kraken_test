@@ -1,11 +1,27 @@
+/* Comment for not OK button */
+"activity.details.contactSeller.noEmail.errorNotOk" = "Nicht OK 3";
+
 /* Comment for OK button */
-"activity.details.contactSeller.noEmail.errorOk" = "OK 1";
+"activity.details.contactSeller.noEmail.errorOk" = "OK 3";
+
 <!-- smartling.character_limit = 60 -->
 "activity.details.contactSeller.noEmail.errorTitle" = "Es sieht so aus, als ob E-Mail noch nicht auf Ihrem Handy eingerichtet ist.";
-"activity.details.counterPartyHistory.text" = "Weitere Transaktionen sehen";
-"activity.details.funding.from.text" = "Rücktritt vom";
-"activity.details.invoice.action.visitwebsite" = "Sie können Rechnungen auf unserer <a href='%1$@'>Website verwalten</a>.";
-"activity.details.moneyRequestCancel.text" = "Die Anfrage für %1$@ wurde abgebrochen";
-"activity.details.moneyRequestRequestee.requestReceived.text" = "%2$@ requested%% %1$@";
-"activity.details.moneyTransfered.debit.text" = "Sie haben%% %1$@ zu %2$@ zurückgezogen";
-"activity.details.order.credit.text" = "%2$@ erhielt einen Auftrag für %1$@";
+
+/* smartling.character_limit = 30 */
+"activity.details.counterPartyHistory.text" = "Weitere Transaktione ansehen 3";
+
+/* This is a comment plus character limit smartling.character_limit = 25 */
+"activity.details.funding.from.text" = "Rückzug von 3";
+
+/* Comment for activity.details.invoice.action.visitwebsite button */
+"activity.details.invoice.action.visitwebsite" = "Sie können Rechnungen auf unserer <a href='%1$@'>Website</a> 3 verwalten.";
+"activity.details.moneyRequestCancel.text" = "The request for %1$@ has been canceled 3;
+
+
+/* Comment for activity.details.moneyRequestRequestee.requestReceived.text */
+/* smartling.character_limit = 31 */
+"activity.details.moneyRequestRequestee.requestReceived.text" = "%2$@ angeforderten %1$@ 3";
+"activity.details.moneyTransfered.debit.text" = "Sie zog sich %1$@ , %2$@ 3";
+
+/* Comment for activity.details.order.credit.text */ /* smartling.character_limit = 32 */
+"activity.details.order.credit.text" = "%2$@ Auftrag zur %1$@ 3";
