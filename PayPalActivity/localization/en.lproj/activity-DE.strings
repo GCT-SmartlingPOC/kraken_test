@@ -18,10 +18,10 @@
 "activity.details.moneyRequestCancel.text" = "The request for %1$@ has been canceled 3;
 
 
-/* Comment for activity.details.moneyRequestRequestee.requestReceived.text */
+/* Comment These are comments that should help the translator get a better context of the string below */
 /* smartling.character_limit = 31 */
-"activity.details.moneyRequestRequestee.requestReceived.text" = "%2$@ requested %1$@ 3";
-"activity.details.moneyTransfered.debit.text" = "You withdrew %1$@ to %2$@ 3";
+"activity.details.moneyRequestRequestee.requestReceived.text" = "%2$@ requested %1$@ 4";
+"activity.details.moneyTransfered.debit.text" = "You withdrew %1$@ to %2$@ 4";
 
 /* Comment for activity.details.order.credit.text */ /* smartling.character_limit = 32 */
 "activity.details.order.credit.text" = "%2$@ received an order for %1$@ 3";
