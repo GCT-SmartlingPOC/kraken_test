@@ -1,5 +1,9 @@
-"activity.details.contactSeller.noEmail.errorTitle" = "Parece que el correo electrónico no está configurado en tu móvil todavía.";
-"activity.details.counterPartySendMoney.text" = "Enviar pagos";
+/* Comment for activity.details.contactSeller.noEmail.errorTitle */
+/* smartling.character_limit = 60 */
+"activity.details.contactSeller.noEmail.errorTitle" = "Parece que email no está configurado en tu móvil todavía 1.";
+/* Comment for activity details counterPartySendMoney text. */
+/* smartling.character_limit = 20 */
+"activity.details.counterPartySendMoney.text" = "Enviar pagos 1";
 "activity.details.funding.from.text" = "Fuente";
 "activity.details.funding.to.text" = "Destino";
 "activity.details.invoice.action.visitwebsite" = "Puede gestionar las facturas en nuestro <a href='%1$@'>sitio web</a>.";
