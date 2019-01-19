@@ -1,0 +1,26 @@
+/* 
+  activity.strings
+  consumervenice
+
+  Created by Miluski, Dane on 4/15/15.
+  Copyright (c) 2015 PayPal. All rights reserved.
+*/
+
+// Activity redesign
+"activity.details.section.status.counterParty.sender.header" = "差出人";
+"activity.details.section.status.purpose.personal" = "友人 & 家族";
+
+"activity.details.section.shipping.sender.header" = "出荷して OK";
+"activity.details.section.shipping.recipient.header" = "出荷情報";
+
+"activity.details.section.purchaseProtection.header" = "購入保護";
+"activity.details.section.purchaseProtection.message" = "問題がある場合は、 %1$@ によって PayPal を通じて売り手に連絡するようにしてください。購入保護の対象となる場合があります。";
+
+"activity.details.section.purchaseDetails.multipleItems.title" = "%1$@ (数量 %2$@)";
+
+"activity.details.invoiceID.text" = "請求書 ID %1$@";
+"activity.details.transactionID.text" = "トランザクション ID %1$@";
+"activity.details.transactionMadeAt.text" = "%1$@ で行われたトランザクション ";
+
+"activity.details.debit.fee.text" = "%1$@ 手数料の後に %2$@ が請求されました。";
+"activity.details.credit.fee.text" = "あなたは %1$@ 手数料を支払った。";

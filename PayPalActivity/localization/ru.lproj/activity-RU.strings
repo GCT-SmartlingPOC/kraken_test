@@ -1,0 +1,10 @@
+"activity.details.contactSeller.noEmail.errorOk" = "Закрыть";
+"activity.details.contactSeller.noEmail.errorTitle" = "Электронная почта не настроена на вашем телефоне еще";
+"activity.details.counterPartyContact.text" = "Свяжитесь с пользователем  %1$@";
+"activity.details.counterPartyHistory.text" = "Просмотреть историю транзакций";
+"activity.details.counterPartyInfo.text" = "%1$@ и вы";
+"activity.details.credit.fee.text" = "Вы заплатили Комиссию в размере %1$@";
+"activity.details.crosscurrency.paymentAcceptedAlertMessage" = "Он будет отображаться в балансе вашего счета в течение нескольких минут.";
+"activity.details.debit.fee.text" = "Вы были обвинены %1$@ с гонораром %2$@";
+"activity.details.discount.title" = "Скидка";
+"activity.details.feeAmount.title" = "Плату";

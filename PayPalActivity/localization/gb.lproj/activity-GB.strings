@@ -1,0 +1,11 @@
+"activity.details.checkCapture.completed.text" = "You've cashed a cheque for %1$@";
+"activity.details.checkCapture.denied.text" = "Refused cheque cash for %1$@";
+"activity.details.checkCapture.failed.text" = "Failed cheque cash for %1$@";
+"activity.details.contactSeller.noEmail.errorOk" = "OK";
+"activity.details.contactSeller.noEmail.errorTitle" = "It looks like emails aren't set up on your phone yet";
+"activity.details.counterPartyContact.EmailAddressText" = "Email address %1$@";
+"activity.details.counterPartyHistory.text" = "See other transactions";
+"activity.details.feeDescriptor.domesticATMWithdrawal.title" = "ATM domestic withdrawal fee";
+"activity.details.feeDescriptor.domesticOverTheCounterWithdrawal.title" = "Over the counter withdrawal fee";
+"activity.details.feeDescriptor.internationalATMWithdrawal.title" = "ATM international withdrawal fee";
+"activity.details.feeDescriptor.internationalOverTtheCounterWithdrawal.title" = "Over the counter withdrawal fee";

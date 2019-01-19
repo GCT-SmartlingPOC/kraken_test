@@ -1,0 +1,26 @@
+/* 
+  activity.strings
+  consumervenice
+
+  Created by Miluski, Dane on 4/15/15.
+  Copyright (c) 2015 PayPal. All rights reserved.
+*/
+
+// Activity redesign
+"activity.details.section.status.counterParty.sender.header" = "От";
+"activity.details.section.status.purpose.personal" = "Друзья & Семья";
+
+"activity.details.section.shipping.sender.header" = "ОК, ЧТОБЫ КОРАБЛЬ";
+"activity.details.section.shipping.recipient.header" = "ИНФОРМАЦИЯ О ДОСТАВКЕ";
+
+"activity.details.section.purchaseProtection.header" = "ЗАЩИТА ПОКУПОК";
+"activity.details.section.purchaseProtection.message" = "Если есть проблемы, не забудьте связаться с продавцом через PayPal, %1$@. Вы можете иметь право на защиту от покупки.";
+
+"activity.details.section.purchaseDetails.multipleItems.title" = "%1$@ (Кол-во %2$@)";
+
+"activity.details.invoiceID.text" = "КОД счета %1$@";
+"activity.details.transactionID.text" = "КОД транзакции %1$@";
+"activity.details.transactionMadeAt.text" = "Транзакция выполнена в %1$@ ";
+
+"activity.details.debit.fee.text" = "Вы были обвинены %1$@ после %2$@ Fee.";
+"activity.details.credit.fee.text" = "Вы заплатили %1$@ сбор.";

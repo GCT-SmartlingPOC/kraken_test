@@ -1,0 +1,26 @@
+/* 
+  activity.strings
+  consumervenice
+
+  Created by Miluski, Dane on 4/15/15.
+  Copyright (c) 2015 PayPal. All rights reserved.
+*/
+
+// Activity redesign
+"activity.details.section.status.counterParty.sender.header" = "에서";
+"activity.details.section.status.purpose.personal" = "친구 & 가족";
+
+"activity.details.section.shipping.sender.header" = "발송 확인";
+"activity.details.section.shipping.recipient.header" = "배송 정보";
+
+"activity.details.section.purchaseProtection.header" = "구매 보호";
+"activity.details.section.purchaseProtection.message" = "문제가 있는 경우, %1$@ 페이팔을 통해 판매자에 게 문의 해야 합니다. 구매 보호를 받을 자격이 있을 수 있습니다.";
+
+"activity.details.section.purchaseDetails.multipleItems.title" = "%1$@ (수량 %2$@)";
+
+"activity.details.invoiceID.text" = "인보이스 ID %1$@";
+"activity.details.transactionID.text" = "거래 ID %1$@";
+"activity.details.transactionMadeAt.text" = "에서 만든 트랜잭션 %1$@ ";
+
+"activity.details.debit.fee.text" = "%1$@ 수수료 후에 %2$@ 가 청구 되었습니다.";
+"activity.details.credit.fee.text" = "%1$@ 수수료를 지불 했습니다.";

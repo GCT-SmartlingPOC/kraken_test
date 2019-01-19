@@ -1,5 +1,9 @@
-"activity.details.contactSeller.noEmail.errorTitle" = "It looks like email isn’t set up on your mobile yet.";
-"activity.details.counterPartySendMoney.text" = "Send payments";
+/* Comment for activity.details.contactSeller.noEmail.errorTitle */
+/* smartling.character_limit = 60 */
+"activity.details.contactSeller.noEmail.errorTitle" = "It looks like email isn’t set up on your mobile yet 1.";
+/* Comment for activity details counterPartySendMoney text. */
+/* smartling.character_limit = 20 */
+"activity.details.counterPartySendMoney.text" = "Send payments 1";
 "activity.details.funding.from.text" = "Source";
 "activity.details.funding.to.text" = "Destination";
 "activity.details.invoice.action.visitwebsite" = "You can manage invoices on our <a href='%1$@'>website</a>.";
