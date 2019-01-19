@@ -4,6 +4,6 @@
 <!--
  smartling.string_format_paths = html : data
 -->
-<data>Some random data 1 <b>with 1</b> html formatting 1.
-	<childdata>Some child data 1</childdata>
+<data>Some random data 2 <b>with 2</b> html formatting 2.
+	<childdata>Some child data 2</childdata>
 </data>
