@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <data>
-      <string name="home-button">Smartling Hotels</string>
+      <string name="home-button">Smartling <b>Hotels</b> with html formatting.</string>
       <string name="back-button">Back</string>
       <localize name="navigation">
         <string>Browse Hotels</string>
@@ -8,7 +8,7 @@
         <string>Site Map</string>
       </localize>
       <localize name="description">
-        <string>An excellent budget hotel in New York City</string>
+        <string>An excellent <b>budget</b> hotel in New York City with html formatting.</string>
       </localize>
       <images>
         <img src="/img/0156849.png" title="Bedroom - Basic Suite"/>
