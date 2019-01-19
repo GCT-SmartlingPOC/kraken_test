@@ -1,3 +1,7 @@
+<!--
+ smartling.translate_paths = data/
+-->
 <?xml version="1.0" encoding="UTF-8"?>
 <data>Some random data.
+	<childdata>Some child data</childdata>
 </data>
