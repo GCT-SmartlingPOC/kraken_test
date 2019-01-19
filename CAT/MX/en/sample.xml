@@ -1,5 +1,7 @@
 <!--
  smartling.translate_paths = data/
+-->
+<!--
  smartling.string_format_paths = html : data
 -->
 <data>Some random data 1 <b>with 1</b> html formatting 1.
