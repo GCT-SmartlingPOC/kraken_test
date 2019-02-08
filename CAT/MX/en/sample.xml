@@ -1,13 +1,16 @@
-<!--
- smartling.translate_paths = data/
--->
-<!--
- smartling.string_format_paths = html : /data
--->
-<data>Some random data 4 <b>with 4</b> html formatting 4.
-	<childdata>Some child data 4</childdata>
-</data>
-<other>
-	Some random other 4 <b>with 4</b> html formatting 4.
-	<childdata>Some child other 4</childdata>
-</other>
+<root>
+	<!--
+	 smartling.translate_paths = root/data/
+	-->
+	<!--
+	 smartling.string_format_paths = html : /root/data
+	-->
+
+	<data>Some random data 4 <b>with 4</b> html formatting 4.
+		<childdata>Some child data 4</childdata>
+	</data>
+	<other>
+		Some random other 4 <b>with 4</b> html formatting 4.
+		<childdata>Some child other 4</childdata>
+	</other>
+</root>
