@@ -1,16 +1,16 @@
 <root>
 	<!--
-	 smartling.translate_paths = root/data/, root/other/
+	 smartling.translate_paths = root/data, root/other/
 	-->
 	<!--
 	 smartling.string_format_paths = html : /root/data
 	-->
 
-	<data>Some random data 5 <b>with 5</b> html formatting 5.
-		<childdata>Some child data 5</childdata>
+	<data>Some random data 6 <b>with 6</b> html formatting 6.
+		<childdata>Some child data 6</childdata>
 	</data>
 	<other>
-		Some random other 5 <b>with 5</b> html formatting 5.
-		<childdata>Some child other 5</childdata>
+		Some random other 6 <b>with 6</b> html formatting 6.
+		<childdata>Some child other 6</childdata>
 	</other>
 </root>
