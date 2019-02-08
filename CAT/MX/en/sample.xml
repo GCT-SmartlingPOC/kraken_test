@@ -1,6 +1,6 @@
 <root>
 	<!--
-	 smartling.translate_paths = root/data/
+	 smartling.translate_paths = root/data/, root/other/
 	-->
 	<!--
 	 smartling.string_format_paths = html : /root/data
