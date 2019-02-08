@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <root>
 	<!--
-	 smartling.translate_paths = root/data/, root/other/
+	 smartling.translate_paths = root/data, root/other/
 	-->
 	<!--
 	 smartling.string_format_paths = html : /root/data
 	-->
 
-	<data>Algunos datos aleatorios 5 <b>con 5</b> formato HTML 5.
-		<childdata>Algunos datos secundarios 5</childdata>
+	<data>Algunos datos aleatorios 6 <b>con 6</b> formato HTML 6.
+		<childdata>Algunos datos secundarios 6</childdata>
 	</data>
 	<other>
-		Algunos aleatorios otros 5 <b>con 5</b> formato HTML 5.
-		<childdata>Algunos niños otros 5</childdata>
+		Algunos aleatorios otros 6 <b>con 6</b> formato HTML 6.
+		<childdata>Algunos niños otros 6</childdata>
 	</other>
 </root>
