@@ -3,8 +3,8 @@
  smartling.translate_paths = data/
 -->
 <!--
- smartling.string_format_paths = html : data
+ smartling.string_format_paths = html : /data
 -->
-<data>Algunos datos al azar 1 <b>con 1</b> HTML formato 1.
-	<childdata>Algunos datos de niño 1</childdata>
+<data>Algunos datos aleatorios 4 <b>con 4</b> formato HTML 4.
+	<childdata>Algunos datos secundarios 4</childdata>
 </data>
