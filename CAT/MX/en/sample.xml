@@ -6,11 +6,11 @@
 	 smartling.string_format_paths = html : /root/data
 	-->
 
-	<data>Some random data 6 <b>with 6</b> html formatting 6.
-		<childdata>Some child data 6</childdata>
+	<data>Some random data 7 <b>with random 7</b> random html formatting 7.
+		<childdata>Some child random data 7</childdata>
 	</data>
 	<other>
-		Some random other 6 <b>with 6</b> html formatting 6.
-		<childdata>Some child other 6</childdata>
+		Some random other 7 <b>with other 7</b> other html formatting 7.
+		<childdata>Some child other 7</childdata>
 	</other>
 </root>
