@@ -24,3 +24,4 @@
 
 "activity.details.debit.fee.text" = "You were charged %1$@ after a %2$@ fee.";
 "activity.details.credit.fee.text" = "You paid a %1$@ fee.";
+"activity.details.credit.fee.text.dp2" = "You paid a %1$@ fee 200.";
